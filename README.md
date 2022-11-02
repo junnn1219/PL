@@ -8,5 +8,5 @@
 ## 作業連結區
  [作業一](https://github.com/junnn1219/PL/blob/main/Python01.ipynb)
  [作業二](https://github.com/junnn1219/PL/blob/main/hw2.ipynb)
- [作業三](https://github.com/junnn1219/PL/blob/main/作業3.ipynb)
+ [作業三](http://localhost:8888/notebooks/作業3.ipynb)
 ## 專題連結區
