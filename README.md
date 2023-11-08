@@ -8,3 +8,4 @@
 ## 作業連結區 
 [作業一](https://colab.research.google.com/drive/1_2pNOxoYCL4HW3lbVbhOm8p_ujlA-5By?hl=zh-tw#scrollTo=CQwxkskqHaSj)
 [作業二](https://colab.research.google.com/drive/1_HSycnaHZLwCLcQCFS-KMlbEXGtkFVVR?hl=zh-tw#scrollTo=XaMztfTa-5_6)
+[作業三](https://colab.research.google.com/drive/1Pj4k5I-JDwMEUZWH3dKa1MxLXyob7aeM#scrollTo=SPij3ar4XLWi）
